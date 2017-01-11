@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?> 
+<in>
+                   <flight>
+                                    <company>LOT</company>
+									 <arrival_t>15:05</arrival_t>
+									 <arrival_f></arrival_f>
+									 <f>LO-705/B2-705</f>
+									 <from>ВАРШАВА</from>
+									 <sector>3-4</sector>
+									 <note></note>
+                   </flight>
+                   <flight>
+                                     <company>AEROFLOT</company>
+									 <arrival_t>13:50</arrival_t>
+									 <arrival_f>14:00</arrival_f>
+									 <f>SU-1840</f>
+									 <from>МОСКВА</from>
+									 <sector>6</sector>
+									 <note>ПРИБЫЛ</note>					 
+                   </flight>
+				   <flight>
+                                    <company>BELAVIA</company>
+									 <arrival_t>13:55</arrival_t>
+									 <arrival_f>13:52</arrival_f>
+									 <f>B2-784</f>
+									 <from>СТАМБУЛ</from>
+									 <sector>1-2</sector>
+									 <note>ПРИБЫЛ</note>
+                   </flight>
+				   <flight>
+                                     <company>AUSTRIAN AIRLINES</company>
+									 <arrival_t>13:45</arrival_t>
+									 <arrival_f>14:10</arrival_f>
+									 <f>OS-687/B2-687</f>
+									 <from>ВЕНА</from>
+									 <sector>3-4</sector>
+									 <note></note>
+                   </flight>
+</in>

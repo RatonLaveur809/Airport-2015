@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?> 
+<out>
+	<dep>
+	<company>ETIHAD AIRWAYS</company>
+	 <dep_t>13:50</dep_t>
+	 <dep_f></dep_f>
+	 <f>EY-062 / B2-0352</f>
+	 <to>АБУ-ДАБИ</to>
+	 <sector>4</sector>
+	 <note>РЕГИСТРАЦИЯ</note>
+	</dep>
+	
+	<dep>
+	<company>BELAVIA</company>
+	 <dep_t>13:00</dep_t>
+	 <dep_f></dep_f>
+	 <f>B2-849</f>
+	 <to>ОДЕССА</to>
+	 <sector>3</sector>
+	 <note>ПОСАДКА </note>
+	</dep>
+	
+	<dep>
+	<company>AUSTRIAN AIRLINES</company>
+	 <dep_t>14:30</dep_t>
+	 <dep_f>15:15</dep_f>
+	 <f>OS-688 / B2-688</f>
+	 <to>ВЕНА</to>
+	 <sector>4</sector>
+	 <note></note>
+	</dep>
+	
+	<dep>
+	<company>BELAVIA</company>
+	 <dep_t>13:20</dep_t>
+	 <dep_f></dep_f>
+	 <f>B2-811</f>
+	 <to>БУДАПЕШТ</to>
+	 <sector>2</sector>
+	 <note>ПОСАДКА </note>
+	</dep>
+</out>
